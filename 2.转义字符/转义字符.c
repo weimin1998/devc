@@ -29,4 +29,5 @@ void main(){
 	
 	changeLine();
 	homework();
+	getchar();// 加这个的目的是，直接双击运行.exe时，终端会停住，不会一闪而过 
 } 
